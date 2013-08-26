@@ -1,0 +1,24 @@
+{
+  "name": "easyhash",
+  "version": "0.0.1",
+  "description": "A easy hash function. The 32-bit Keccak version Keccak[256, 544, 0] is supported.",
+  "main": "./lib/easyhash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robin-cloud/easyhash.git"
+  },
+  "keywords": [
+    "hash",
+    "javascript",
+    "sha3",
+    "Keccak"
+  ],
+  "author": "Robin Cloud <dio.paper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robin-cloud/easyhash/issues"
+  }
+}
